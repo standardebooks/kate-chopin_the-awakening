@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Awakening</dc:title>
 		<meta property="file-as" refines="#title">Awakening, The</meta>
 		<dc:subject id="subject-1">Adultery -- Fiction</dc:subject>
@@ -34,19 +34,22 @@
 		<dc:subject id="subject-3">Self-actualization (Psychology) -- Fiction</dc:subject>
 		<dc:subject id="subject-4">New Orleans (La.) -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Louisiana -- Social life and customs -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/160</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/160</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/160</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/160</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/160</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2007100578</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008111479</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008108468</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008116083</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A woman’s dawning realisation of her situation leads to a struggle for independence.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Awakening&lt;/i&gt; charts Edna Pontellier’s journey of self-discovery. The time spent with a younger friend on a summer holiday on Grand Isle in Lousiana unlocks a feeling in her that she can’t close away again. On returning to her family home in New Orleans, she starts to transition from unthinking housewife and mother into something freer and more confident, although this doesn’t meet with the full approval of the society she’s a part of.&lt;/p&gt;
 			&lt;p&gt;Kate Chopin had written a novel previously, but she was mostly known as a writer of Louisiana-set short stories. &lt;i&gt;The Awakening&lt;/i&gt;, while keeping the setting, charted new territory with its themes of marital infidelity and less-than-perfect devotion of a mother to her children. The consequent critical reception was less than enthusiastic⁠—hardly surprising given the prevailing moral atmosphere of the time⁠—and her next novel was cancelled. &lt;i&gt;The Awakening&lt;/i&gt; was rediscovered in the 1960s and is now regarded as an important early example of American feminist literature.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/160</dc:source>
 		<dc:source>https://archive.org/details/awakeningthe00choprich</dc:source>
