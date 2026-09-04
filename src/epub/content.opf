@@ -30,11 +30,11 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Awakening</dc:title>
 		<meta property="file-as" refines="#title">Awakening, The</meta>
-		<dc:subject id="subject-1">Adultery -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Women -- Louisiana -- New Orleans -- Social conditions -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Self-actualization (Psychology) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">New Orleans (La.) -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Louisiana -- Social life and customs -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Adultery--Fiction</dc:subject>
+		<dc:subject id="subject-2">Women--Louisiana--New Orleans--Social conditions--Fiction</dc:subject>
+		<dc:subject id="subject-3">Self-actualization (Psychology)--Fiction</dc:subject>
+		<dc:subject id="subject-4">New Orleans (La.)--Fiction</dc:subject>
+		<dc:subject id="subject-5">Louisiana--Social life and customs--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100578</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
